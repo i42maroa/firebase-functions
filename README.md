@@ -1,4 +1,4 @@
-#Function for my-wdedding-site
+# Function for my-wdedding-site
 
 Esta funcion permite escuchar los cambios en la base de datos para conocer cuales son los asistentes a la boda.
 
